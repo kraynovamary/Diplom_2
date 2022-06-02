@@ -6,7 +6,7 @@ public class Order {
 
     private List<Ingredients> ingredients;
 
-    private Integer _id;
+    private String _id;
 
     private String status;
 
@@ -16,7 +16,7 @@ public class Order {
 
     private String updatedAt;
 
-    public Order(List<Ingredients> ingredients, Integer _id, String status, Integer number, String createdAt, String updatedAt) {
+    public Order(List<Ingredients> ingredients, String _id, String status, Integer number, String createdAt, String updatedAt) {
         this.ingredients = ingredients;
         this._id = _id;
         this.status = status;
@@ -37,11 +37,11 @@ public class Order {
         this.ingredients = ingredients;
     }
 
-    public Integer get_id() {
+    public String get_id() {
         return _id;
     }
 
-    public void set_id(Integer _id) {
+    public void set_id(String _id) {
         this._id = _id;
     }
 

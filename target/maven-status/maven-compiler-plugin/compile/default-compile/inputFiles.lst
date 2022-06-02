@@ -1,0 +1,11 @@
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/model/User.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/rest/BurgerRestUrl.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/model/UserResponse.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/rest/RestBurgerSend.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/model/OrderResponse.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/model/OrderCreateRequest.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/model/Order.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/model/OrderGetResponse.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/model/Ingredients.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/rest/RestAssuredClient.java
+/home/mkraynova/IdeaProjects/Diplom_2/src/main/java/data/DataGenerator.java
