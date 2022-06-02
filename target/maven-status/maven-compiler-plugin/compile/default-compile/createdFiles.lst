@@ -1,0 +1,11 @@
+rest/BurgerRestUrl.class
+rest/RestBurgerSend.class
+model/Ingredients.class
+model/Order.class
+model/OrderCreateRequest.class
+data/DataGenerator.class
+model/UserResponse.class
+model/User.class
+rest/RestAssuredClient.class
+model/OrderGetResponse.class
+model/OrderResponse.class

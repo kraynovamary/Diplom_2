@@ -1,0 +1,8 @@
+MainTest.class
+CreateUserWithoutRequiredFieldsTest.class
+GetOrderTest.class
+CreateOrderTest.class
+CreateUserTest.class
+EditUsersDataTest.class
+AuthorizationTest.class
+AuthorizationWithoutRequiredFieldsTest.class
